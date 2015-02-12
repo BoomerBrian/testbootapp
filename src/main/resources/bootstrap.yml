@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: testboot
+  cloud:
+    config:
+      user:
+      password: '{cipher}fedcbf7b7eb206f84c29baa205a4090546c2b7b59523076958a5ea5d8eddd116'
